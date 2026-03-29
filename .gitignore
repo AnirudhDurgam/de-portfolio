@@ -1,0 +1,11 @@
+# PyCharm
+.idea/
+
+# Google credentials
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.env
+.env
